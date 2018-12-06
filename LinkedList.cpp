@@ -62,7 +62,7 @@ int main() {
         switch (in){
             case 1: {
                 Node node;
-                cout << "Data Pemain Rugby" << endl;
+                cout << "Data Pemain Bola Kampung" << endl;
                 cout << "----------------------" << endl;
                 cout << "Masukkan Nomor Punggung : ";
                 cin>>node.no_punggung;
